@@ -1,3 +1,3 @@
-# learn Git
+# Learn Git
 
 ## What to do next...
